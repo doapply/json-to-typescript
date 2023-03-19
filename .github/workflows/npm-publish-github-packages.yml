@@ -6,8 +6,6 @@ name: Node.js Package
 on:
   release:
     types: [created]
-    branch:
-      main
 
 jobs:
   build:
